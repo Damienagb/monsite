@@ -1,0 +1,32 @@
+body {
+    background: #f3f4f6;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #1f2937;
+}
+h1 {
+    text-align: center;
+    color: #111827;
+    margin-bottom: 40px;
+    font-size: 32px;
+}
+ul {
+    list-style-type: "✔ ";
+    padding-left: 20px;
+    margin: 0;
+}
+h2 {
+    color: #1d4ed8;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 5px;
+}
+ul {
+    list-style-type: "✔ ";
+    padding-left: 20px;
+    margin: 0;
+}
+li {
+    margin-bottom: 8px;
+}

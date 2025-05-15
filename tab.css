@@ -1,0 +1,33 @@
+table, tr, th, td{
+         border:5px solid black;
+         border-collapse:collapse;
+         
+         td {
+      border: 2px solid #888;
+      padding: 40px;
+      vertical-align: middle;
+    }
+    .highlight {
+      color: #3a86ff;
+      font-weight: bold;
+    }
+    .rotate-left {
+      transform: rotate(-45deg);
+    }
+    .rotate-right {
+      transform: rotate(45deg);
+    }
+    body {
+      background-color: #1c1f2b;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    table {
+      margin: 30px auto;
+      border-collapse: collapse;
+      width: 80%;
+    }
+    br{
+        Color: blue, 
+    }

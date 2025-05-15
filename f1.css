@@ -1,0 +1,22 @@
+body {
+    background: #f3f4f6;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #1f2937;
+}
+p {
+    text-align:0;
+    color: #111827;
+    margin-bottom: 40px;
+    font-size: 32px;
+}
+form{
+    border-left: 5px solid #2563eb;
+    padding-left: 20px;
+    margin-bottom: 30px;
+    background: #f9fafb;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
